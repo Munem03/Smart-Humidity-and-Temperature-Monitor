@@ -1,1 +1,2 @@
 # Smart-Humidity-and-Temperature-Monitor
+This project utilizes an Arduino and a DHT11/DHT22 digital sensor to monitor both temperature and humidity levels in real-time. The readings are displayed on a compact and energy-efficient OLED display, ensuring clear visibility even in low-light conditions. This setup is ideal for smart home systems, greenhouses, or weather monitoring stations. You can further expand the project to trigger alarms or automate devices (such as fans or humidifiers) when the readings exceed defined thresholds.
